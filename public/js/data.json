@@ -1,0 +1,451 @@
+{
+    "Products" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Garden Tools",
+            "image":"/images/home_page/garden-tools-2.jpg",
+            "body": "All you need to take care of your garden! Saws, shovels, hoes and even vases for home decor."
+               
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Bouquets",
+            "image":"/images/home_page/imge_home_2.jpg",
+            "body": "Choose from our beautiful bouquets, or make your own individual by selecting the singles."
+            
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Plants",
+            "image":"/images/home_page/plants-home-2.jpg",
+            "body": "Make your garden bloom by choosing our plants, decorate your home or grow your own Spices."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "/images/tools/black_tulip.jpg"
+        },
+        {
+            "id":2,
+            "image": "/images/bouquets/black_tulip.jpg"
+        },
+        {
+            "id":3,
+            "image": "/images/bouquets/black_tulip.jpg"
+        },
+        {
+            "id":4,
+            "image": "/images/bouquets/black_tulip.jpg"
+        },
+        {
+            "id":5,
+            "image": "/images/bouquets/black_tulip.jpg"
+        },
+        {
+            "id":6,
+            "image": "/images/bouquets/black_tulip.jpg"
+        },
+        {
+            "id":7,
+            "image": "/images/bouquets/black_tulip.jpg"
+        },
+        {
+            "id":8,
+         "image": "/images/bouquets/black_tulip.jpg"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest"
+        }
+        
+    ] ,
+    "Admin" : [
+        {
+            "first_Name": "Admin",
+            "last_Name": "name",
+            "email": "admin@gmail.com",
+            "password": "Admin123"
+        }
+    ] ,
+
+    "Users" :[
+{
+    "first_Name": "azx",
+    "last_Name": "asd",
+    "email": "ayo@gmail.com",
+    "password": "123",
+    "confirm_password": "123",
+    "Phone_Number": "asd",
+    "address": "adress1", 
+    "custumer_type": true,
+    "shoping":[],
+    "TotalPay":0,
+    "Messages":[],
+    "History":[]
+},
+{
+    
+    "first_Name": "ayob",
+    "last_Name": "masrallh",
+    "email": "ayobnas@gmail.com",
+    "password": "123",
+    "confirm_password": "123",
+    "Phone_Number": "0502127125",
+    "address": "adress2", 
+    "custumer_type": true,
+    "shoping":[],
+    "TotalPay":0,
+    "Messages":[],
+    "History":[]
+},
+{
+    "first_Name": "maya",
+    "last_Name": "shema",
+    "email": "maya@gmail.com",
+    "password": "123",
+    "confirm_password": "123",
+    "Phone_Number": "0549076228",
+    "address": "adress3",
+    "custumer_type": true,
+    "shoping":[],
+    "TotalPay":0,
+    "Messages":[],
+    "History":[]
+},
+{
+    "first_Name": "azx",
+    "last_Name": "asd",
+    "email": "ayobna@gmail.com",
+    "password": "123",
+    "confirm_password": "123",
+    "Phone_Number": "00000",
+    "address": "address4",
+    "custumer_type": true,
+    "shoping":[],
+    "TotalPay":0,
+    "Messages":[],
+    "History":[]
+}
+    ],
+  "Planting" : [
+{ 
+    "id":1,
+    "name":"Celery" ,
+    "img":"images/planting/celery.jpg",
+    "price":8
+},
+{ 
+    "id":2,
+    "name":"Lavender" ,
+    "img":"images/planting/Lavender.jpg",
+    "price":15
+},
+{ 
+    "id":3,
+    "name":"Mint" ,
+    "img":"images/planting/mint.png",
+    "price":13
+
+},
+{ 
+    "id":4,
+    "name":"Parsley" ,
+    "img":"images/planting/parsley.jpg",
+    "price":9
+
+},
+{ 
+    "id":5,
+    "name":"Dark Pink Cyclamen" ,
+    "img":"images/planting/pink_Cyclamen.jpg",
+    "price":6
+},
+{ 
+    "id":6,
+    "name":"Light Pink Cyclamen" ,
+    "img":"images/planting/pink_Cyclamen2.jpg",
+    "price":6
+},
+{ 
+    "id":7,
+    "name":"Aloe Vera" ,
+    "img":"images/planting/planting.jpg",
+    "price":16
+},
+{ 
+    "id":8,
+    "name":"Purple Pansy" ,
+    "img":"images/planting/purple_pansy.jpg",
+    "price":7
+},
+{ 
+    "id":9,
+    "name":"Purple Petunia" ,
+    "img":"images/planting/purple_Petunia.jpg",
+    "price":11
+   
+},
+{ 
+    "id":10,
+    "name":"Red Cineria" ,
+    "img":"images/planting/red_Cineria.jpg",
+    "price":13
+  
+}
+  ] ,
+  "Tools" : [
+    { 
+        "id":1,
+        "name":"Big Saw" ,
+        "img":"images/tools/big_saw.jpg",
+        "price":85
+    },
+    { 
+        "id":2,
+        "name":"Electric Saw" ,
+        "img":"images/tools/electric_saw.jpg",
+        "price":200
+    },
+    { 
+        "id":3,
+        "name":"Small Saw" ,
+        "img":"images/tools/small_saw.jpg",
+        "price":57
+    
+    },
+    { 
+        "id":4,
+        "name":"Iron Handle Shovel" ,
+        "img":"images/tools/iron_handle_shovel.jpg",
+        "price":120
+    },
+    { 
+        "id":5,
+        "name":"Squer Shovel" ,
+        "img":"images/tools/squer_shovel.jpg",
+        "price":100
+    },
+    { 
+        "id":6,
+        "name":"Wood Handel Shovel" ,
+        "img":"images/tools/wood_handel_shovel.jpeg",
+        "price":89
+    },
+    { 
+        "id":7,
+        "name":"Blue Line Hoe" ,
+        "img":"images/tools/blue_line_hoe.jpg",
+        "price":79
+    },
+    { 
+        "id":8,
+        "name":"Red Line Hoe" ,
+        "img":"images/tools/red_line_hoe.jpg",
+        "price":79
+       
+    },
+    { 
+        "id":9,
+        "name":"Short White Wooden Fence 1m" ,
+        "img":"images/tools/short_white_wooden_fence.jpg",
+        "price":20
+      
+    },
+    { 
+        "id":10,
+        "name":"Soil Bag 25k" ,
+        "img":"images/tools/soil_bag.jpg",
+        "price":45
+       
+    },
+    { 
+        "id":11,
+        "name":"Soil Bag 50k" ,
+        "img":"images/tools/soil_bag.jpg",
+        "price":80
+       
+    },
+    { 
+        "id":12,
+        "name":"Black Vase" ,
+        "img":"images/tools/black_vase.jpg",
+        "price":30
+       
+    },
+    { 
+        "id":13,
+        "name":"Green Flower Vase" ,
+        "img":"images/tools/green_flower_vase.jpg",
+        "price":26
+       
+    },
+    { 
+        "id":14,
+        "name":"Multi Color Vase" ,
+        "img":"images/tools/multi_color_vase.jpg",
+        "price":42
+       
+    },
+    { 
+        "id":15,
+        "name":"Red Glass Vase" ,
+        "img":"images/tools/red_glass_vase.jpg",
+        "price":40
+    
+    }
+    
+      ] ,
+      "Bouquets" : [
+        { 
+            "id":1,
+            "name":"Black Tulip Bouquet" ,
+            "img":"images/bouquets/black_tulip.jpg",
+            "price":200
+        },
+        { 
+            "id":2,
+            "name":"orange Tulip Bouquet" ,
+            "img":"images/bouquets/orange_tulip.jpg",
+            "price":150
+        },
+        { 
+            "id":3,
+            "name":"Purple Tulip Bouquet" ,
+            "img":"images/bouquets/purple_tulips.jpg",
+            "price":155
+        
+        },        
+        { 
+            "id":4,
+            "name":"White Tulip Bouquet" ,
+            "img":"images/bouquets/white_tulip.jpg",
+            "price":150
+        },
+        { 
+            "id":5,
+            "name":"Pink Lily Bouquet" ,
+            "img":"images/bouquets/pink_lily2.jpg",
+            "price":140
+        },
+        { 
+            "id":6,
+            "name":"Singel Pink Lily" ,
+            "img":"images/bouquets/pink_lily1.jpg",
+            "price":2
+           
+        },
+        { 
+            "id":7,
+            "name":"Singel Red Lily" ,
+            "img":"images/bouquets/red_lily.jpg",
+            "price":4
+          
+        },
+        { 
+            "id":8,
+            "name":"Singel White Lily" ,
+            "img":"images/bouquets/white_lily.jpg",
+            "price":5
+           
+        },
+        { 
+            "id":9,
+            "name":"Singel Yellow Lily" ,
+            "img":"images/bouquets/yellow_lily.jpg",
+            "price":4
+           
+        },
+        { 
+            "id":10,
+            "name":"Orange Roses Bouquet" ,
+            "img":"images/bouquets/orange_roses.jpg",
+            "price":130
+           
+        },
+        { 
+            "id":11,
+            "name":"Pink Roses Bouquet" ,
+            "img":"images/bouquets/pink_roses.jpg",
+            "price":165
+           
+        },
+        { 
+            "id":12,
+            "name":"Red Roses Bouquet" ,
+            "img":"images/bouquets/red_roses.jpg",
+            "price":200
+           
+        },
+        { 
+            "id":13,
+            "name":"White Roses Bouquet" ,
+            "img":"images/bouquets/white_roses.jpg",
+            "price":200
+        
+        },
+        { 
+            "id":14,
+            "name":"Yellow Roses Bouquet" ,
+            "img":"images/bouquets/yellow_roses.jpg",
+            "price":180
+        
+        },
+        { 
+            "id":15,
+            "name":"Singel Pink Chrysanthemum" ,
+            "img":"images/bouquets/pink_chrysanthemum.jpg",
+            "price":7
+        
+        },
+        { 
+            "id":16,
+            "name":"Singel Red Chrysanthemum" ,
+            "img":"images/bouquets/red_chrysanthemum.jpg",
+            "price":7
+        
+        },
+        { 
+            "id":17,
+            "name":"Singel Yellow Chrysanthemum" ,
+            "img":"images/bouquets/yellow_chrysanthemum.jpg",
+            "price":7
+        
+        },
+        { 
+            "id":18,
+            "name":"Singel Purple Anemone" ,
+            "img":"images/bouquets/purple_anemone.jpg",
+            "price":10
+        
+        },
+        { 
+            "id":19,
+            "name":"Singel Red Anemone" ,
+            "img":"images/bouquets/red_anemone.jpg",
+            "price":10
+        
+        }
+        
+          ] 
+}
