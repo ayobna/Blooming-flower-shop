@@ -24,41 +24,6 @@
             "body": "Make your garden bloom by choosing our plants, decorate your home or grow your own Spices."
         }
     ],
-
-    "portfolio" : [
-        {
-            "id":1,
-            "image": "/images/tools/black_tulip.jpg"
-        },
-        {
-            "id":2,
-            "image": "/images/bouquets/black_tulip.jpg"
-        },
-        {
-            "id":3,
-            "image": "/images/bouquets/black_tulip.jpg"
-        },
-        {
-            "id":4,
-            "image": "/images/bouquets/black_tulip.jpg"
-        },
-        {
-            "id":5,
-            "image": "/images/bouquets/black_tulip.jpg"
-        },
-        {
-            "id":6,
-            "image": "/images/bouquets/black_tulip.jpg"
-        },
-        {
-            "id":7,
-            "image": "/images/bouquets/black_tulip.jpg"
-        },
-        {
-            "id":8,
-         "image": "/images/bouquets/black_tulip.jpg"
-        }
-    ] ,
     "social" : [
         {
             "id": 1,
