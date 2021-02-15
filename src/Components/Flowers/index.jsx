@@ -24,7 +24,14 @@ class Flowers extends Component {
     }
     btnAddList = (e) => {
         if (JSON.parse(sessionStorage.getItem('user')) === null) {
-            alert('You need to login to continue')
+         if (JSON.parse(sessionStorage.getItem('admin')) !== null) {
+            alert('You are admin, you can not buy')  
+            this.props.history.push({
+                pathname: '/'
+            })
+            return
+         }
+            alert('You need to login to continue')   
             this.props.history.push({
                 pathname: '/login'
             })
